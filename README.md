@@ -1,12 +1,14 @@
 # front-end setup
 
-### stack
+```
+npm i
+npm run dev
+```
+
+### Stack
 - Node
 - Express
 - React
 - Redux + RxJS
 
-```
-npm i
-npm run dev
-```
+
