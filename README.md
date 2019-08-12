@@ -1,6 +1,6 @@
 # node-app-setup
 
-### setup for front-end / ui
+setup for front-end / ui
 
 ```
 npm i
