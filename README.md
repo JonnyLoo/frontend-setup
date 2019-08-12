@@ -1,6 +1,10 @@
-# node-app-setup
+# front-end setup
 
-setup for front-end / ui
+### stack
+- Node
+- Express
+- React
+- Redux + RxJS
 
 ```
 npm i
